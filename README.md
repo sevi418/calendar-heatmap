@@ -36,7 +36,7 @@ A beautiful and interactive calendar heatmap visualization tool built with Next.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/calendar-heatmap.git
+git clone https://github.com/sevi418/calendar-heatmap.git
 cd calendar-heatmap
 ```
 
